@@ -1,0 +1,50 @@
+body{
+    box-sizing:border-box;
+    padding:0px;
+    margin:0px;
+}
+.header{
+    background-color: chocolate;
+    display:flex;
+    width:100%;
+    padding: 0px;
+}
+img{
+    border-radius: 250px;
+    padding: 2px;
+    margin: 80px;
+    
+}
+a{
+    width: 100%;
+}
+.text{
+font-size: 50px;
+font-style: italic;
+margin-top: 120px;
+}
+i{
+  height: 40px;
+  padding: 5px;
+}
+li{
+    font-size: 200px;
+}
+.set{
+   font-size: 100px; 
+   width: 100%;
+}
+.text-pro{
+    font-size: larger;
+    padding: 40px;
+    width: 100%;
+    margin: 30px;
+}
+.set-1{
+    border: 2px solid black;
+    width: 100%;
+    padding: 0px;
+}
+.id{
+    width:100%;
+}
